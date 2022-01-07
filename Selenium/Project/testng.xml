@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="JobBoardProject.Activity1"/>
+      <class name="JobBoardProject.Activity2"/>
+      <class name="JobBoardProject.Activity3"/>
+      <class name="JobBoardProject.Activity4"/>
+      <class name="JobBoardProject.Activity5"/>
+      <class name="JobBoardProject.Activity6"/>
+      <class name="JobBoardProject.Activity7"/>
+      <class name="JobBoardProject.Activity8"/>
+      <class name="JobBoardProject.Activity9"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
