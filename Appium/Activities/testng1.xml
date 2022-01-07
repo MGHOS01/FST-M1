@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Appium_Live_Project.Activity1_1GoogleTasks"/>
+      <class name="Appium_Live_Project.Activity1_2_GoogleKeep"/>
+      <class name="Appium_Live_Project.Activity1_3_GoogleKeep"/>
+      <class name="Appium_Live_Project.Activity2_1_GoogleChrome"/>
+      <class name="Appium_Live_Project.Activity2_2_1LoginForm_CorrectCredential"/>
+      <class name="Appium_Live_Project.Activity2_2_2LoginForm_InCorrectCredential"/>
+      <class name="Appium_Live_Project.Activity2_3_1Popups_CorrectCredential"/>
+      <class name="Appium_Live_Project.Activity2_3_2Popups_InCorrectCredential"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
